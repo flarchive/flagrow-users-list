@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of flagrow/users-list.** Not for installation: use [Packagist](https://packagist.org/packages/flagrow/users-list) or the [upstream repository](https://github.com/flagrow/users-list).
 
-**0** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/flagrow-users-list/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
+**3** versions archived · Latest: [`0.1.2`](https://github.com/flarchive/flagrow-users-list/tree/archive/v0.1.2) · License: `MIT` · Flarum: `^0.1.0-beta.6`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2016-08-18 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/flagrow-users-list/tree/archive/v0.1.0) |
+| `0.1.1` | 2016-09-16 | `^0.1.0-beta.5` | [Browse](https://github.com/flarchive/flagrow-users-list/tree/archive/v0.1.1) |
+| `0.1.2` | 2017-06-13 | `^0.1.0-beta.6` | [Browse](https://github.com/flarchive/flagrow-users-list/tree/archive/v0.1.2) |
 
 Catalog entry: [packages/flagrow-users-list.json](https://github.com/flarchive/archive-index/blob/main/packages/flagrow-users-list.json)
 
